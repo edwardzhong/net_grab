@@ -2,7 +2,7 @@
 基于nodeJs的命令行版简单网络爬虫
 
 ## tecnology
-commander: 命令行工具
+commander: 命令行工具  
 cheerio: 服务端Jquery库
 
 ## start project
