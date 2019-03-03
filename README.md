@@ -6,7 +6,7 @@ commander: 命令行工具
 cheerio: 服务端Jquery库
 
 ## start project
-``` javascript
+``` bash
 npm install
 npm link
 grab bd <keyword>//抓取百度网页
