@@ -15,8 +15,8 @@
   "author": "Jeff Zhong",
   "license": "MIT",
   "dependencies": {
+    "axios": "^0.18.0",
     "cheerio": "^1.0.0-rc.2",
-    "colors": "^1.1.2",
-    "commander": "^2.11.0"
+    "commander": "^2.19.0"
   }
 }
